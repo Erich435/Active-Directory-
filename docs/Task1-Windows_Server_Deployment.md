@@ -1,8 +1,8 @@
 # Task 1 - Deploy a Windows Server 2019 virtual machine configured as Domain Controller with the following parameters:
 * Hostname: DC01
-* Static IP Address: 192.168.50.5
-* DNS Server: 192.168.50.5 (Self)
-* Active Directory Domain Services installed and configured
+* Static IP Address: **192.168.50.5**
+* DNS Server: **192.168.50.5 (Self)**
+* **Active Directory Domain Services installed and configured**
 
 # Steps performed
 1. Created a new Virtual Machine in VMware Workstation Pro
